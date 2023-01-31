@@ -63,3 +63,8 @@ body {
 	letter-spacing: 2px;
 	cursor: pointer;
 }
+.hero-btn:hover {
+	background-color: white;
+	color: brown;
+	font-weight: 500;
+}
