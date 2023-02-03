@@ -68,3 +68,12 @@ body {
 	color: brown;
 	font-weight: 500;
 }
+.hero-btn {
+	transition: transform 0.5s;
+}
+
+.hero-btn:hover {
+	-ms-transform: scale(1.1); /* IE 9 */
+	-webkit-transform: scale(1.1); /* Safari 3-8 */
+	transform: scale(1.1);
+}
